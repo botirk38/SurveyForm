@@ -1,0 +1,73 @@
+
+/* Set basic styles for the page */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #2E2E2E;
+  background-color: #F7F7F7;
+  background-image: url('barber-pattern.jpg');
+  background-size: 200px;
+  background-repeat: repeat;
+}
+
+/* Style the main heading */
+#title {
+  text-align: center;
+  font-size: 48px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  color: grey;
+  text-shadow: 2px 2px #3B3B3B;
+  letter-spacing: 2px;
+}
+
+/* Style the form */
+#survey-form {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #3B3B3B;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #FFFFFF;
+}
+
+/* Style the form labels */
+label {
+  display: block;
+  margin-bottom: 10px;
+  color: #2E2E2E;
+  font-size: 18px;
+}
+
+/* Style the form inputs */
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #3B3B3B;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  font-size: 16px;
+  background-color: #FDFDFD;
+  color: #2E2E2E;
+}
+
+/* Style the radio buttons */
+input[type="radio"] {
+  margin-right: 10px;
+}
+
+/* Style the select dropdown */
+select {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #3B3B3B;
+  box-sizing: border-box;
+  margin-bottom: 20px;
