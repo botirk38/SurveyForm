@@ -16,7 +16,7 @@ To use the Barber Shop Survey Form, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 
-`sql
+`
 git clone https://github.com/botirk38/barber-shop-survey-form.git
 `
 
