@@ -2,6 +2,8 @@
 
 This repository contains an HTML/CSS survey form for a barber shop. The Barber Shop Survey Form is designed to gather feedback from customers and improve the services offered by the barber shop.
 
+Live demo [_here_](botirk38.github.io)
+
 ## Features
 
 - **User-friendly Interface:** The survey form provides a clean and intuitive user interface, making it easy for customers to provide their feedback.
