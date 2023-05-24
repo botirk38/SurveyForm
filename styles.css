@@ -35,6 +35,9 @@ body {
   background-color: #FFFFFF;
 }
 
+#description{
+  text-align:center;
+}
 /* Style the form labels */
 label {
   display: block;
