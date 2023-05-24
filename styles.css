@@ -1,5 +1,4 @@
 
-/* Set basic styles for the page */
 body {
   margin: 0;
   padding: 0;
@@ -12,8 +11,6 @@ body {
   background-size: 200px;
   background-repeat: repeat;
 }
-
-/* Style the main heading */
 #title {
   text-align: center;
   font-size: 48px;
@@ -24,7 +21,7 @@ body {
   letter-spacing: 2px;
 }
 
-/* Style the form */
+
 #survey-form {
   max-width: 600px;
   margin: 0 auto;
@@ -35,10 +32,7 @@ body {
   background-color: #FFFFFF;
 }
 
-#description {
-  text-align: center;
-}
-/* Style the form labels */
+
 label {
   display: block;
   margin-bottom: 10px;
@@ -46,7 +40,7 @@ label {
   font-size: 18px;
 }
 
-/* Style the form inputs */
+
 input[type="text"],
 input[type="email"],
 textarea {
@@ -61,12 +55,12 @@ textarea {
   color: #2E2E2E;
 }
 
-/* Style the radio buttons */
+
 input[type="radio"] {
   margin-right: 10px;
 }
 
-/* Style the select dropdown */
+
 select {
   width: 100%;
   padding: 10px;
@@ -74,3 +68,8 @@ select {
   border: 1px solid #3B3B3B;
   box-sizing: border-box;
   margin-bottom: 20px;
+ 
+}
+#description {
+  text-align: center;
+}
